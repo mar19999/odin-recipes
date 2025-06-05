@@ -3,6 +3,7 @@
     font-size: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #FF8282;
+    margin-bottom: 5px;
 }
 
 body {
@@ -11,7 +12,7 @@ body {
 
 .home ul {
     display: table;
-    margin: 0 auto;
+    margin-left: 42%;
     list-style-type: none;
 }
 
@@ -27,6 +28,14 @@ a {
     text-align: center;
     padding: 16px 32px;
     font-size: 25px;
+}
+
+.home img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
 }
 
 .recipe {
