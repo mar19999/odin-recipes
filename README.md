@@ -12,7 +12,7 @@ This project is the first assignment in The Odin Project's Foundations Course, a
 
 ## Instructions
 
-For more details about the assignment, check out the official [The Odin Project Recipe Assignment](https://www.theodinproject.com/lessons/foundations-recipes).
+For more details about the assignment, check out the official [The Odin Project: Recipe](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## Technologies
  * **HTML**
